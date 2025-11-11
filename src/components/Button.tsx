@@ -5,7 +5,7 @@ export default function Button() {
     return (
         <>
             <h2>ボタンをクリックしてあなたの恋愛運をチェック！</h2>
-             <Link href="https://ip:3000/result"> 
+             <Link href="https://localhost:3000/result"> 
             <button className="button">プレイ</button>
             </Link>
         </>
