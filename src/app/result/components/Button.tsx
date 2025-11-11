@@ -26,7 +26,7 @@ export default function Button({ onClick}: ButtonProps) {
             <button className="button3" onClick={onClick}>
                 引く
             </button>
-             <Link href="https://172.24.73.80:3000"> 
+             <Link href="https://ip:3000"> 
                  <button onClick={handleReload} className="button2">
                     タイトルへ
                  </button>
