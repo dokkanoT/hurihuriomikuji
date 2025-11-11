@@ -26,7 +26,7 @@ export default function Button({ onClick}: ButtonProps) {
             <button className="button3" onClick={onClick}>
                 引く
             </button>
-             <Link href="https://localhost:3000"> 
+             <Link href="https:hurihuriomikuji-6vm1qpaea-dokkanots-projects.vercel.app"> 
                  <button onClick={handleReload} className="button2">
                     タイトルへ
                  </button>
